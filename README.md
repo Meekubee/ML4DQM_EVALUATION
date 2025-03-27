@@ -10,7 +10,7 @@ The project involves building and evaluating a **Vision Transformer (ViT) model*
 ## How to Run
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ML4DQM-Evaluation.git
+git clone https://github.com/Meekubee/ML4DQM_EVALUATION.git
 ```
 2. Install Dependencies:
 ```bash
