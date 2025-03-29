@@ -3,7 +3,7 @@
 This repository contains my submission for the **Evaluation Test: ML4DQM**.
 
 ## Project Overview
-The project involves building and evaluating a **Vision Transformer (ViT) model** to classify images from a synthetic dataset generated at the Large Hadron Collider's (LHC) Compact Muon Solenoid (CMS) detector. The goal is to compare the performance of a traditional ViT model with a Mixture-of-Experts (MoE) ViT approach.
+The project involves building and evaluating a **Vision Transformer (ViT) model** to classify images from a synthetic dataset generated at the Large Hadron Collider's (LHC) Compact Muon Solenoid (CMS) detector. The goal is to classify input images into the dataset(2) they originate from using a ViT approach.
 
 ---
 
